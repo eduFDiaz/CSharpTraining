@@ -1,0 +1,10 @@
+C:\Users\eduardo\Desktop\Refreshing C#\Training\bin\Debug\netcoreapp2.1\Training.deps.json
+C:\Users\eduardo\Desktop\Refreshing C#\Training\bin\Debug\netcoreapp2.1\Training.runtimeconfig.json
+C:\Users\eduardo\Desktop\Refreshing C#\Training\bin\Debug\netcoreapp2.1\Training.runtimeconfig.dev.json
+C:\Users\eduardo\Desktop\Refreshing C#\Training\bin\Debug\netcoreapp2.1\Training.dll
+C:\Users\eduardo\Desktop\Refreshing C#\Training\bin\Debug\netcoreapp2.1\Training.pdb
+C:\Users\eduardo\Desktop\Refreshing C#\Training\obj\Debug\netcoreapp2.1\Training.csprojAssemblyReference.cache
+C:\Users\eduardo\Desktop\Refreshing C#\Training\obj\Debug\netcoreapp2.1\Training.AssemblyInfoInputs.cache
+C:\Users\eduardo\Desktop\Refreshing C#\Training\obj\Debug\netcoreapp2.1\Training.AssemblyInfo.cs
+C:\Users\eduardo\Desktop\Refreshing C#\Training\obj\Debug\netcoreapp2.1\Training.dll
+C:\Users\eduardo\Desktop\Refreshing C#\Training\obj\Debug\netcoreapp2.1\Training.pdb

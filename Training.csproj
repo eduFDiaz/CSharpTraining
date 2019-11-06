@@ -1,0 +1,102 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="day1.examples\**" />
+    <Compile Remove="day1.exercises\**" />
+    <Compile Remove="day2.examples\**" />
+    <Compile Remove="day2.Overloading\**" />
+    <Compile Remove="day2.SampleProject\**" />
+    <Compile Remove="day3.abstractClasses\**" />
+    <Compile Remove="day3.inheritance\**" />
+    <Compile Remove="day3.interfaces\**" />
+    <Compile Remove="day4.ArrayListAndList\**" />
+    <Compile Remove="day4.basekeyword\**" />
+    <Compile Remove="day4.statickeyword\**" />
+    <Compile Remove="day4.trycatchfinally\**" />
+    <Compile Remove="day4.var\**" />
+    <Compile Remove="day5.delegateex\**" />
+    <Compile Remove="day5.enumExample\**" />
+    <Compile Remove="day5.extensionExample\**" />
+    <Compile Remove="day5.lambdaExpression\**" />
+    <Compile Remove="day5.linq\**" />
+    <Compile Remove="day5.partialExample\**" />
+    <Compile Remove="day5.readWriteFiles\**" />
+    <Compile Remove="day5.sealedExample\**" />
+    <Compile Remove="Threading\**" />
+    <EmbeddedResource Remove="day1.examples\**" />
+    <EmbeddedResource Remove="day1.exercises\**" />
+    <EmbeddedResource Remove="day2.examples\**" />
+    <EmbeddedResource Remove="day2.Overloading\**" />
+    <EmbeddedResource Remove="day2.SampleProject\**" />
+    <EmbeddedResource Remove="day3.abstractClasses\**" />
+    <EmbeddedResource Remove="day3.inheritance\**" />
+    <EmbeddedResource Remove="day3.interfaces\**" />
+    <EmbeddedResource Remove="day4.ArrayListAndList\**" />
+    <EmbeddedResource Remove="day4.basekeyword\**" />
+    <EmbeddedResource Remove="day4.statickeyword\**" />
+    <EmbeddedResource Remove="day4.trycatchfinally\**" />
+    <EmbeddedResource Remove="day4.var\**" />
+    <EmbeddedResource Remove="day5.delegateex\**" />
+    <EmbeddedResource Remove="day5.enumExample\**" />
+    <EmbeddedResource Remove="day5.extensionExample\**" />
+    <EmbeddedResource Remove="day5.lambdaExpression\**" />
+    <EmbeddedResource Remove="day5.linq\**" />
+    <EmbeddedResource Remove="day5.partialExample\**" />
+    <EmbeddedResource Remove="day5.readWriteFiles\**" />
+    <EmbeddedResource Remove="day5.sealedExample\**" />
+    <EmbeddedResource Remove="Threading\**" />
+    <None Remove="day1.examples\**" />
+    <None Remove="day1.exercises\**" />
+    <None Remove="day2.examples\**" />
+    <None Remove="day2.Overloading\**" />
+    <None Remove="day2.SampleProject\**" />
+    <None Remove="day3.abstractClasses\**" />
+    <None Remove="day3.inheritance\**" />
+    <None Remove="day3.interfaces\**" />
+    <None Remove="day4.ArrayListAndList\**" />
+    <None Remove="day4.basekeyword\**" />
+    <None Remove="day4.statickeyword\**" />
+    <None Remove="day4.trycatchfinally\**" />
+    <None Remove="day4.var\**" />
+    <None Remove="day5.delegateex\**" />
+    <None Remove="day5.enumExample\**" />
+    <None Remove="day5.extensionExample\**" />
+    <None Remove="day5.lambdaExpression\**" />
+    <None Remove="day5.linq\**" />
+    <None Remove="day5.partialExample\**" />
+    <None Remove="day5.readWriteFiles\**" />
+    <None Remove="day5.sealedExample\**" />
+    <None Remove="Threading\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="day6.genericsEx\Program.cs" />
+    <Compile Remove="leetcode\DefaningIPAddress.cs" />
+    <Compile Remove="leetcode\JewelsAndStones.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="day2.SampleProject\Department.cs" />
+    <Compile Include="day2.SampleProject\Employee.cs" />
+    <Compile Include="day3.interfaces\Cone.cs" />
+    <Compile Include="day3.interfaces\Container.cs" />
+    <Compile Include="day4.trycatchfinally\demo.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="day1.examples\" />
+    <Folder Include="day6.genericsEx\" />
+    <Folder Include="leetcode\" />
+    <Folder Include="Threading\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="3.3.1" />
+  </ItemGroup>
+
+</Project>
