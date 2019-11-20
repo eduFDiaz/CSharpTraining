@@ -85,18 +85,20 @@
     <Compile Include="day2.SampleProject\Employee.cs" />
     <Compile Include="day3.interfaces\Cone.cs" />
     <Compile Include="day3.interfaces\Container.cs" />
-    <Compile Include="day4.trycatchfinally\demo.cs" />
+    <Compile Include="Threading\9TasksDemoDownload.cs" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="day1.examples\" />
+    <Folder Include="day4.trycatchfinally\" />
     <Folder Include="day6.genericsEx\" />
     <Folder Include="leetcode\" />
-    <Folder Include="Threading\" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.CodeAnalysis.CSharp" Version="3.3.1" />
+    <PackageReference Include="Nancy" Version="2.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
   </ItemGroup>
 
 </Project>
